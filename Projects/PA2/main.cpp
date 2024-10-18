@@ -163,4 +163,7 @@ int main(int argc, char** argv) {
     // Deletes the allocated memory
     delete[] phoneNumbers;
     delete[] names;
+
+    // Complete the main method
+    return 0;
 }
